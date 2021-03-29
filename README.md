@@ -3,6 +3,8 @@
 A storage system for small parts, desined for 3D Printing and minimal material usage.
 Customisable size and grid in a FreeCAD Project.
 
+Thingiverse: [Thing 4810777](https://www.thingiverse.com/thing:4810777)
+
 This Tray is heavily inspired by https://www.thingiverse.com/thing:3505602 from creator [chrismofer](https://www.thingiverse.com/chrismofer/designs)
 
 ![Stack of Trays](/doc/img/stacked.jpg "Stack of Trays")
