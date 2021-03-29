@@ -12,7 +12,7 @@ Trays can be locked together with M2/2mm Cotter Pins [aliexpress](https://de.ali
 ## Variants
 
 Default size is 160mm * 160mm * 15mm. Patterns in this size (up to 8x8 grid) can be found in the STL folder.
-As the Tray is always sqare and symmetrical, for example 6x5 is the same as 5x6.
+As the Tray is always square and symmetrical, for example 6x5 is the same as 5x6.
 
 To change the size or grid pattern, you can just change the parameters in the Spreadsheet of the FreeCAD project, after that your custom tray will be generated.
 
